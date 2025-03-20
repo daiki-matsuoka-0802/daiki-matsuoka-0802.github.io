@@ -18,7 +18,7 @@ nav_order: 3
 
 {% bibliography --file presentations_international.bib %}
 
-<h2>Domestic Conference（国内会議）</h2>
+<h2>Domestic Conference</h2>
 
 {% bibliography --file presentations_domestic.bib %}
 
