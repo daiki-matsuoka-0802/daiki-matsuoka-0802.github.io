@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at <a href='https://www.is.s.u-tokyo.ac.jp/en/'>Department of Computer Science, The University of Tokyo</a>
+subtitle: PhD student at <a href='https://www.is.s.u-tokyo.ac.jp/en/'>the Department of Computer Science, The University of Tokyo</a> (he/him)
 
 profile:
   align: right
