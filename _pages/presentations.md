@@ -22,6 +22,9 @@ nav_order: 3
 
 {% bibliography --file presentations_domestic.bib %}
 
+<h2>Awards</h2>
+The <a href="https://www.i.u-tokyo.ac.jp/news/topics/2025/202503242546_e.shtml" target="_blank">Dean's Award</a> of the Graduate School of Information Science and Technology, The University of Tokyo (Master's Program)
+
 <h2>Talks</h2>
 
 {% bibliography --file talks.bib %}
