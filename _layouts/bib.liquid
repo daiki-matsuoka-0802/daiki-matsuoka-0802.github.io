@@ -264,7 +264,9 @@
         {% if entry.handout contains '://' %}
           <a href="{{ entry.handout }}" class="btn btn-sm z-depth-0" target="_blank" role="button">Handout</a>
         {% else %}
-          <a href="{{ entry.handout | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" target="_blank" role="button">Handout</a>
+          <a href="{{ entry.handout | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" target="_blank" role="button"
+            >Handout</a
+          >
         {% endif %}
       {% endif %}
       {% if entry.website %}

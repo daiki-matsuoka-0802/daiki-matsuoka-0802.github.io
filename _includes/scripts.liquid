@@ -227,30 +227,13 @@
   <!-- Analytics -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-<<<<<<< HEAD
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.google_analytics }}');
-  </script>
-  <script defer src="{{ '/assets/js/google-analytics-setup.js' | relative_url | bust_file_cache }}"></script>
-=======
   <script defer src="{{ '/assets/js/google-analytics-setup.js' | relative_url }}"></script>
->>>>>>> upstream/main
 {% endif %}
 
 {% if site.enable_cronitor_analytics %}
   <!-- Cronitor RUM -->
   <script async src="https://rum.cronitor.io/script.js"></script>
-<<<<<<< HEAD
-  <script defer src="{{ '/assets/js/cronitor-analytics-setup.js' | relative_url | bust_file_cache }}"></script>
-=======
   <script defer src="{{ '/assets/js/cronitor-analytics-setup.js' | relative_url }}"></script>
->>>>>>> upstream/main
 {% endif %}
 {% if site.enable_pirsch_analytics %}
   <script
@@ -261,11 +244,7 @@
   ></script>
 {% endif %}
 {% if site.enable_openpanel_analytics %}
-<<<<<<< HEAD
-  <script defer src="{{ '/assets/js/open-panel-analytics-setup.js' | relative_url | bust_file_cache }}"></script>
-=======
   <script defer src="{{ '/assets/js/open-panel-analytics-setup.js' | relative_url }}"></script>
->>>>>>> upstream/main
   <script async defer src="https://openpanel.dev/op1.js"></script>
 {% endif %}
 
@@ -293,11 +272,7 @@
     ></script>
   {% endif %}
   {% if page.images.photoswipe %}
-<<<<<<< HEAD
-    <script defer src="{{ '/assets/js/photoswipe-setup.js' | relative_url | bust_file_cache }}" type="module"></script>
-=======
     <script defer src="{{ '/assets/js/photoswipe-setup.js' | relative_url }}" type="module"></script>
->>>>>>> upstream/main
   {% endif %}
   {% if page.images.slider %}
     <script
