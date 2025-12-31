@@ -33,7 +33,7 @@ In other words, I aim to develop a mathematical model that explains humans' cogn
 More concretely, my research focuses on the following topics.
 
 - **Type-theoretical semantics**
-  - Type theory, a formal system developed in computer science, serves as a powerful tool for analyzing meanings (see my slides [here](https://speakerdeck.com/daikimatsuoka/type-theory-as-a-formal-basis-of-natural-language-semantics?slide=49) for details).
+  - Type theory, a formal system developed in computer science, serves as a powerful tool for analyzing meanings (see my slides [here](https://speakerdeck.com/daikimatsuoka/type-theory-as-a-formal-basis-of-natural-language-semantics) for details).
 - **Categorial grammar**
   - In this framework, syntactic structures are built together with meaning representations, providing a computationally plausible model of meaning composition.
 
