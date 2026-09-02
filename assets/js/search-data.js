@@ -39,7 +39,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%61%69%6B%69.%6D%61%74%73%75%6F%6B%61@%69%73.%73.%75-%74%6F%6B%79%6F.%61%63.%6A%70", "_blank");
+          window.open("mailto:%64%61%69%6B%69.%6D%61%74%73%75%6F%6B%61@%79%61%6C%65.%65%64%75", "_blank");
         },
       },{
         id: 'social-orcid',
