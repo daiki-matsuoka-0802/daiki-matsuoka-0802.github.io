@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at <a href='https://www.is.s.u-tokyo.ac.jp/en/'>the Department of Computer Science, The University of Tokyo</a> (he/him)
+subtitle: PhD student in <a href='https://ling.yale.edu'>the Department of Linguistics at Yale University</a> (he/him)
 
 profile:
   align: right
@@ -16,6 +16,7 @@ profile:
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+
 # announcements:
 #   enabled: true # includes a list of news items
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -27,16 +28,14 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I work in the field of **formal semantics** of natural language.
-In other words, I aim to develop a mathematical model that explains humans' cognitive ability to compute the meaning of natural language expressions.
+I work on the **formal semantics** of natural language.
+In other words, I aim to develop a mathematical model that explains the human cognitive ability to compute the meaning of natural language expressions.
 
 More concretely, my research focuses on the following topics.
 
 - **Type-theoretical semantics**
-  - Type theory, a formal system developed in computer science, serves as a powerful tool for analyzing meanings (see my slides [here](https://speakerdeck.com/daikimatsuoka/type-theory-as-a-formal-basis-of-natural-language-semantics) for details).
+  - Type theory, a formal system developed in computer science, serves as a powerful tool for analyzing meaning (see my slides [here](https://speakerdeck.com/daikimatsuoka/type-theory-as-a-formal-basis-of-natural-language-semantics) for details).
 - **Categorial grammar**
   - In this framework, syntactic structures are built together with meaning representations, providing a computationally plausible model of meaning composition.
 
-I am currently a member of [Yanaka Lab](https://ylab.mystrikingly.com) at the University of Tokyo.
-
-I have [another website (in Japanese)](https://liewecmays.net), where I occasionally post some notes on what I have self-studied (partly as a hobby).
+I have [another website (in Japanese)](https://liewecmays.net), where I occasionally post some notes on topics I have studied outside of class (partly as a hobby).
